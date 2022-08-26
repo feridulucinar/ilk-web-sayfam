@@ -1,8 +1,8 @@
 # Patika Ilk Web Sitem
 
-Bu repo [Patika](https://www.patika.dev) Front-End Eğitiminde oluşturduğum ilk web sitem. İçerisinde bir adet README dosyası, bir adet img klasörü içinde bir adet jpg dosyası ve bir adet de index.html barındırıyor.
+Bu repo [Patika](https://www.patika.dev) Front-End Eğitimindeki ödev kapsamında oluşturduğum ilk web sitem. İçerisinde bir adet README dosyası, bir adet img klasörü içinde bir adet jpg dosyası ve bir adet de index.html barındırıyor.
 
-[github image](https://www.hizliresim.com/dp71g19)
+[github image](https://www.hizliresim.com/mtnmjwi)
 
 ## Installation
 
@@ -18,7 +18,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```linux
-cd kodluyoruzilkrepo
+cd ilk_web_sitem
 code .
 ```
 
