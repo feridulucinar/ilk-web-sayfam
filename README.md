@@ -1,4 +1,4 @@
-# Kodluyoruz Ilk Repo
+# Patika Ilk Web Sitem
 
 Bu repo [Patika](https://www.patika.dev) Front-End Eğitiminde oluşturduğum ilk web sitem. İçerisinde bir adet README dosyası, bir adet img klasörü içinde bir adet jpg dosyası ve bir adet de index.html barındırıyor.
 
@@ -9,7 +9,7 @@ Bu repo [Patika](https://www.patika.dev) Front-End Eğitiminde oluşturduğum il
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/feridulucinar/kodluyoruzilkrepo.git
+git clone https://github.com/feridulucinar/ilk-web-sayfam.git
 ```
 
 ## Usage
